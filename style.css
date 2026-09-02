@@ -4,7 +4,7 @@ body {
   justify-content: center;
   height: 100%;
   background-color: #FFFFFF;
-  background-image: url(/My./images.jpeg);
+  background-image: url(images.jpeg);
   background-size: cover;
   }
 
@@ -17,7 +17,7 @@ body {
   padding-bottom: 30px;
   margin-left: 20px;
   margin-right: 20px;
-  background-image: url(/My./imagess.jpeg);
+  background-image: url(imagess.jpeg);
   background-size: cover;
   }
 
