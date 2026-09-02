@@ -47,7 +47,7 @@ h1 {
 }
 
 .div2 {
-  background: #1A6E0C;
+  background: #76BC6A;
   border: 5px solid black;
   border-style: inset;
   border-radius: 10px;
@@ -56,7 +56,7 @@ h1 {
   padding-bottom: 30px;
   margin-left: 20px;
   margin-right: 20px;
-  background-image: url(imagess.jpeg);
+  background-image: url(greenphoto.jpeg);
   background-size: cover;
 }
 
