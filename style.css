@@ -47,7 +47,7 @@ h1 {
 }
 
 .div2 {
-  background: #76BC6A;
+  background: red;
   border: 5px solid black;
   border-style: inset;
   border-radius: 10px;
@@ -56,7 +56,7 @@ h1 {
   padding-bottom: 30px;
   margin-left: 20px;
   margin-right: 20px;
-  background-image: url(greenphoto.jpeg);
+  background-image: url(https://github.com/Bawar720/My-Social/blob/b3f781db0a19fc6a6d7de94cbb0555f7361fa1ba/greenphoto.jpeg);
   background-size: cover;
 }
 
